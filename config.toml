@@ -19,14 +19,14 @@ theme = "onedly"
     # social share links to appear at the end
     socialShare          = false
     # Sets specific share to appear on posts (default behavior is to appear)
-    socialShareTwitter   = true
-    socialShareGoogleplus = true
-    socialShareFacebook  = true
-    socialShareReddit    = true
-    socialShareLinkedin  = true
-    socialShareStumbleupon = true
-    socialSharePinterest = true
-    socialShareEmail = true
+    socialShareTwitter   = false
+    socialShareGoogleplus = false
+    socialShareFacebook  = false
+    socialShareReddit    = false
+    socialShareLinkedin  = false
+    socialShareStumbleupon = false
+    socialSharePinterest = false
+    socialShareEmail = false
 
     # theme's color scheme
     first_color="#f8f8f8"
