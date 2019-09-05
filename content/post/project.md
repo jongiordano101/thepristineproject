@@ -10,10 +10,9 @@ title = "What is this?"
 
 Uncover our untouched, unspoiled, true nature.
 
-### Pro*ject (verb)
+### Pro*ject (verb): to display or extend outwards
 
-* \[x\] To display/extend outwards from who you truly are.
 * \[x\] Gain a deeper understanding and see a whole new way forward.
-* \[x\] Move beyond limiting belief systems.
+* \[x\] Move beyond limiting beliefs.
 * \[x\] Express your Self freely out in the world.
-* \[x\] Create from the space of freedom vs insecurity and lack.
+* \[x\] Create from the space of _freedom_ vs insecurity and lack.
