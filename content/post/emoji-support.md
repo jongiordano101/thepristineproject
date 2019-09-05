@@ -1,11 +1,12 @@
 +++
-title = "Fun"
-description = "Some fun with emoji"
-date = "2019-08-07"
 author = "Christian Decker"
+date = "2019-08-07"
+description = "Some fun with emoji"
+draft = true
 sec = 6
-+++
+title = "Fun"
 
++++
 Emoji can be enabled in a Hugo project in a number of ways. 
 <!--more-->
 The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
