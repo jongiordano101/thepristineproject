@@ -2,6 +2,7 @@
 author = "Christian Decker"
 date = "2019-08-07"
 description = "General Data Protection Regulation (GDPR)"
+draft = true
 title = "General Data Protection Regulation (GDPR)"
 
 +++
