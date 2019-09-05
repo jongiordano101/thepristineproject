@@ -14,6 +14,6 @@ Uncover our untouched, unspoiled, true nature.
 
 * \[x\] To display/extend outwards from who you truly are.
 * \[x\] Gain a deeper understanding and see a whole new way forward.
-* \[x\] Move beyond limiting belief systems. 
+* \[x\] Move beyond limiting belief systems.
 * \[x\] Express your Self freely out in the world.
-* \[x \] Create from the space of freedom vs insecurity and lack.
+* \[x\] Create from the space of freedom vs insecurity and lack.
