@@ -6,6 +6,12 @@ sec = 7
 title = "Conclusion"
 
 +++
+### Summary
+
+Join us for the next iteration of The Pristine Pro*ject on October 3, 2019.
+
+This consists of 9 weeks of group coaching, explorations and reflective contemplations in addition to a 45 minute 1:1 session prior to the first group gathering. 
+
 ### Next Steps
 
-If you'd love to be a part of this program, [apply now]( "Apply Now") to see if this project is a mutual fit.
+If you'd love to be a part of this program, [apply now]( "Apply Now") and see if this pro*ject is a mutual fit.
