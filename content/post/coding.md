@@ -1,11 +1,12 @@
 +++
-title = "Section"
-description = "Some section with content"
-date = "2019-08-07"
 author = "Christian Decker"
+date = "2019-08-07"
+description = "Some section with content"
+draft = true
 sec = 3
-+++
+title = "Section"
 
++++
 _Source: content taken from [hugoBasicExample](https://github.com/gohugoio/hugoBasicExample). File: `markdown-syntax.md`_
 
 ## Paragraph
@@ -46,4 +47,3 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 </body>
 </html>
 {{< /highlight >}}
-
