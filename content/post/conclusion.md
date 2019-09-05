@@ -1,11 +1,12 @@
 +++
-title = "Conclusion"
+author = "Jon Giordano"
+date = "2019-09-05T04:00:00+00:00"
 description = "Summary, conclusion and next steps"
-date = "2019-08-07"
-author = "Christian Decker"
+draft = true
 sec = 7
-+++
+title = "Conclusion"
 
++++
 This section concludes the project.
 
 ### Summary
@@ -23,8 +24,4 @@ I successfully acquired new development skills for raspi computers. They provide
 
 ### Next Steps
 
-There are other embedded systems. Will approach them as my next programming plattform. 
-
-
-
-
+There are other embedded systems. Will approach them as my next programming plattform.
