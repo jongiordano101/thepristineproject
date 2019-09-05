@@ -15,4 +15,4 @@ Uncover our untouched, unspoiled, true nature.
 * \[x\] Gain a deeper understanding and see a whole new way forward.
 * \[x\] Move beyond limiting beliefs.
 * \[x\] Express your Self freely out in the world.
-* \[x\] Create from the space of _freedom_ vs insecurity and lack.
+* \[x\] Create from the space of freedom and happiness vs insecurity and lack.
