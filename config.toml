@@ -63,7 +63,7 @@ theme = "onedly"
     wordpress        = ""
     medium           = ""
     # Professional/Business Oriented Communities
-    linkedin         = "/jongiordano/"
+    linkedin         = "jongiordano/"
     linkedin_company = ""
     foursquare       = ""
     xing             = ""
@@ -73,7 +73,7 @@ theme = "onedly"
     googleplus       = ""
     reddit           = ""
     quora            = ""
-    youtube          = "/UC_ba9vpfqIXFvK-i4ZtPf-Q"
+    youtube          = ""
     vimeo            = ""
     whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
