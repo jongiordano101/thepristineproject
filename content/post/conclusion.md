@@ -12,6 +12,7 @@ Including 9 weeks of group coaching, explorations and reflective contemplations 
 
 ### Is there something you'd love to pro*ject or explore further?
 
-#### Where are you now and where would you love to be?
+####   
+Where are you now and where would you love to be?
 
-If you'd love to be a part of this program, [apply now](https://forms.gle/2VDuMcgG4oySLSi17 "Apply Now") and see if The Pristine Pro*ject is a mutual fit.
+If you'd love to be a part of this program, [apply now](https://forms.gle/2VDuMcgG4oySLSi17 "Apply Now") and see if The Pristine Pro*ject is a mutual fit. 
