@@ -13,6 +13,6 @@ Uncover our untouched, unspoiled, true nature.
 ### Pro*ject (verb): to display or extend outwards
 
 * \[x\] Gain a deeper understanding and see a whole new way forward.
-* \[x\] Move beyond limiting beliefs.
+* \[x\] Move beyond limiting beliefs without resistance or struggle.
 * \[x\] Express your Self freely out in the world.
 * \[x\] Create from the space of freedom and happiness vs insecurity and lack.
