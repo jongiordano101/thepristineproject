@@ -3,14 +3,12 @@ author = "Jon Giordano"
 date = "2019-09-05T04:00:00+00:00"
 description = "Summary, conclusion and next steps"
 sec = 7
-title = "Conclusion"
+title = "Summary"
 
 +++
-### Summary
+Join us for the next iteration of The Pristine Pro*ject on October 3, 2019:
 
-Join us for the next iteration of The Pristine Pro*ject on October 3, 2019.
-
-This consists of 9 weeks of group coaching, explorations and reflective contemplations in addition to a 45 minute 1:1 session prior to the first group gathering.
+Including 9 weeks of group coaching, explorations and reflective contemplations as well as a 45 minute 1:1 session. 
 
 ### Next Steps
 
