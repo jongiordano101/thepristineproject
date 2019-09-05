@@ -12,7 +12,8 @@ Uncover our untouched, unspoiled, true nature.
 
 ### Pro*ject (verb)
 
-* \[x\] To display or extend outwards who you truly are.
+\[x\] To display or extend outwards who you truly are.
+
 * \[x\] Gain a deeper understanding and new perspective.
 * \[x\] To express your Self out into the world.
 * \[ \] Create from the space of freedom vs lack and insecurity.
