@@ -11,7 +11,7 @@ theme = "onedly"
     description = "Express your Self, effortlessly."
     author_url = "//jongiordano.com"
     author_name = "Jon Giordano"
-    project_url = "https://thepristineproject.com"
+    # project_url = "https://thepristineproject.com"
 
     # optionally specify where the content is
     # mainSections = ["post"]
