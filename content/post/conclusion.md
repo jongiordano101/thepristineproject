@@ -10,8 +10,7 @@ Join us for the next iteration of The Pristine Pro*ject on October 3, 2019:
 
 Including 9 weeks of group coaching, explorations and reflective contemplations as well as a 45 minute 1:1 session.
 
-_  
-Where are you now and where would you love to be?_
+> _Where are you now and where would you love to be?_
 
 ### Is there something you'd love to pro*ject or explore further?
 
