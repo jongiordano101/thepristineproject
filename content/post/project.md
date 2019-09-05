@@ -1,9 +1,9 @@
 +++
-author = "Christian Decker"
-date = "2019-08-07"
-description = "Goals, objectives and approach"
+author = "Jon Giordano"
+date = "2019-09-05T04:00:00+00:00"
+description = "Pro*ject (verb)"
 sec = 2
-title = "Project Definition"
+title = "The Pristine"
 
 +++
 The essence of this program: 
