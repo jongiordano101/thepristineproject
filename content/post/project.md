@@ -8,7 +8,7 @@ title = "What is this?"
 +++
 ### The Pristine
 
-Uncover our untouched, unspoiled, true nature.
+Uncover your untouched, unspoiled, true nature.
 
 ### Pro*ject (verb): to display or extend outwards
 
