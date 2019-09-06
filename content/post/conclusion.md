@@ -8,7 +8,7 @@ title = "Next Steps"
 +++
 Join us for the next iteration of The Pristine Pro*ject on October 3, 2019:
 
-Including group coaching, explorations and reflective contemplations as well as a 1:1 session.
+Including inward explorations, group coaching, reflective contemplations as well as a 1:1 session.
 
 > _Where are you now and where would you love to be?_
 
