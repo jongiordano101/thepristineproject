@@ -8,7 +8,7 @@ theme = "onedly"
 #
 [params]
     # project specific params
-    description = "Express your Self, effortlessly."
+    description = "Express who you are without effort"
     author_url = "//thepristineproject.com"
     author_name = "with Jon Giordano"
     # project_url = "https://thepristineproject.com"
